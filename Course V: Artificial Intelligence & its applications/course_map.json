@@ -1,0 +1,76 @@
+{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+        "1. Image Processing:<ul><li>Projects: Medical image analysis -- pathology, tracking suspicious movement for security.</li></ul>",
+        "2. Natural Language Processing:<ul><li>Projects: Spam detector, Q&A SYSTEM.</li></ul>",
+        "3. Speech:<ul><li>Project: Conversational systems.</li></ul>",
+        "4. Deep Learning in Cyber Security"
+    ],
+    "short_description": "In this course we will cover four interesting application of AI<br>A. Natural Language Processing.<br>B. Computer Vision.<br>C. Speech Processing.<br>D. Cyber Security.<br>The problem to be solved in these areas will be selected by group class activity.",
+    "image": "artificial_intelligence_and_its_applications.png",
+    "instructors": [{
+    "name": "Vijay Gabale",
+    "profile_url": "http://innosential.com/vijay-gabale",
+    "image": "vijay.jpg"
+    }, {
+    "name": "Pratinbha Moongi",
+    "profile_url": "http://innosential.com/pratibha-moogi",
+    "image": "pratibha.jpg"
+    }, {
+    "name": "Ajit Jaokar",
+    "profile_url": "http://innosential.com/ajit-jaokar",
+    "image": "Ajit.jpg"
+    }],
+    "title": "Course V: Artificial Intelligence & its applications",
+    "units": [
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Prof. Bhiksha Raj"
+            ],
+            "title": "Image Processing"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Prof. Bhiksha Raj"
+            ],
+            "title": "Reinforcement Learning"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Prof. Bhiksha Raj"
+            ],
+            "title": "Speech"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Prof. Bhiksha Raj"
+            ],
+            "title": "Computer Vision"
+        }
+    ]
+}
